@@ -1,0 +1,64 @@
+main{
+    font-family: 'Nunito', sans-serif;
+    
+    color: white;
+    font-family: 'Nunito', sans-serif;
+  }
+  header{
+    background-color: #242526;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+  }
+  .bg-dark-blue{
+    background-color: #121319;
+  }
+  .bg-blue-king{
+    background-color: #142138;
+  }
+  .borderbutton{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .bordertop{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+  .button:link{
+    text-decoration: none;
+  }
+  .button {
+    background-color: #18191a;
+    box-sizing: border-box;
+    border-radius: 15px;
+    border: 0px;
+    color: white;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: block;
+    text-align: center;
+    -webkit-transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: box-shadow 200ms ease-in-out, color 200ms ease-in-out;
+  }
+  .button:hover{
+    box-shadow: 0 0 40px 40px #303031 inset;
+    color: white;
+  }
+  
+  #nav1{
+    background-color: #18191a;
+    float:left ;
+    height: 81%;
+    width: 25%;
+  }
+  #nav2{
+    float: right;
+    height: 81.1%;
+    width: 90%;
+  }
+  
+  #icon{
+    height: 50px;
+    color: #c9dcf8;
+
+  }
