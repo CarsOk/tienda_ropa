@@ -63,6 +63,21 @@ header{
   background-position: 0;
   color: #ffffff;
 }
+.re{
+  width: 10%;
+}
+.full{
+  border: 2px solid red;
+  border-radius: 10px;
+}
+.rounded-circle{
+  height: 35%;
+  margin: 5px;
+}
+.rounded-circle:hover{
+  -webkit-transform:scale(1.3);
+  transform:scale(1.3);
+}
 
 #nav1{
   background-color: #18191a;
@@ -74,4 +89,20 @@ header{
   float: right;
   height: 81.1%;
   width: 90%;
+}
+
+.re{
+  width: 10%;
+}
+.full{
+  border: 2px solid red;
+  border-radius: 10px;
+}
+.rounded-circle{
+  height: 35%;
+  margin: 5px;
+}
+.rounded-circle:hover{
+  -webkit-transform:scale(1.3);
+  transform:scale(1.3);
 }
