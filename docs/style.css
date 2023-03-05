@@ -1,6 +1,4 @@
 main{
-  font-family: 'Nunito', sans-serif;
-  
   color: white;
   font-family: 'Nunito', sans-serif;
 }
@@ -43,6 +41,27 @@ header{
 .button:hover{
   box-shadow: 0 0 40px 40px #303031 inset;
   color: white;
+}
+.fourth {
+  text-decoration: none;
+  background-color: #303031;
+  border: 0px #f1c40f;
+  color: #ffffff;
+  background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+  background-image: linear-gradient(45deg, #18191a 50%, transparent 50%);
+  background-position: 100%;
+  background-size: 400%;
+  -webkit-transition: background 300ms ease-in-out;
+  transition: background 300ms ease-in-out;
+  font-size: 18px;
+  padding-left: 35%;
+  padding-right: 35%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.fourth:hover {
+  background-position: 0;
+  color: #ffffff;
 }
 
 #nav1{
